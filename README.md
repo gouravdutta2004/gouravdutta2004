@@ -10,6 +10,15 @@
 
   <br/><br/>
 
+  <!-- METRICS & STATUS BADGES -->
+  <img src="https://komarev.com/ghpvc/?username=gouravdutta2004&style=for-the-badge&color=0D1117&label=PROFILE+VIEWS" alt="Profile Views" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/gouravdutta2004?style=for-the-badge&color=0D1117&labelColor=0D1117&logo=github&logoColor=58A6FF&label=FOLLOWERS" alt="Followers" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Status-🟢_Building_Data_Products-0D1117?style=for-the-badge&logoColor=58A6FF" alt="Status" />
+
+  <br/><br/>
+
   <!-- QUICK SOCIAL BADGES -->
   <a href="https://github.com/gouravdutta2004">
     <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -47,13 +56,59 @@ I focus on developing scalable web applications, real-time interactive platforms
 
 <div align="center">
 
-| Category | Technologies & Tools |
-| :--- | :--- |
-| **Languages** | `Python` • `JavaScript` • `TypeScript` • `C++` |
-| **Frontend** | `React` • `Next.js` • `Tailwind CSS` • `HTML5` • `CSS3` |
-| **Backend** | `Node.js` • `Express` • `FastAPI` • `Flask` |
-| **AI / ML** | `PyTorch` • `TensorFlow` • `Scikit-learn` • `OpenCV` • `Pandas` • `NumPy` |
-| **Databases & Cloud** | `MongoDB` • `PostgreSQL` • `Redis` • `SQLite` • `AWS` • `Docker` • `Vercel` |
+<table width="100%">
+  <tr>
+    <td width="20%"><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
+      <img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/C++-0D1117?style=flat-square&logo=cplusplus&logoColor=00599C" alt="C++" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-0D1117?style=flat-square&logo=tailwind-css&logoColor=06B6D4" alt="Tailwind CSS" />
+      <img src="https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS3" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=node.js&logoColor=339933" alt="Node.js" />
+      <img src="https://img.shields.io/badge/Express-0D1117?style=flat-square&logo=express&logoColor=white" alt="Express" />
+      <img src="https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=009688" alt="FastAPI" />
+      <img src="https://img.shields.io/badge/Flask-0D1117?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>AI / ML</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/PyTorch-0D1117?style=flat-square&logo=pytorch&logoColor=EE4C2C" alt="PyTorch" />
+      <img src="https://img.shields.io/badge/TensorFlow-0D1117?style=flat-square&logo=tensorflow&logoColor=FF6F00" alt="TensorFlow" />
+      <img src="https://img.shields.io/badge/Scikit--learn-0D1117?style=flat-square&logo=scikit-learn&logoColor=F7931E" alt="Scikit-learn" />
+      <img src="https://img.shields.io/badge/OpenCV-0D1117?style=flat-square&logo=opencv&logoColor=5C3EE8" alt="OpenCV" />
+      <img src="https://img.shields.io/badge/Pandas-0D1117?style=flat-square&logo=pandas&logoColor=150458" alt="Pandas" />
+      <img src="https://img.shields.io/badge/NumPy-0D1117?style=flat-square&logo=numpy&logoColor=013243" alt="NumPy" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Databases & Cloud</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB" />
+      <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/Redis-0D1117?style=flat-square&logo=redis&logoColor=DC382D" alt="Redis" />
+      <img src="https://img.shields.io/badge/SQLite-0D1117?style=flat-square&logo=sqlite&logoColor=003B57" alt="SQLite" />
+      <img src="https://img.shields.io/badge/AWS-0D1117?style=flat-square&logo=amazon-aws&logoColor=FF9900" alt="AWS" />
+      <img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
+      <img src="https://img.shields.io/badge/Vercel-0D1117?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -66,7 +121,12 @@ I focus on developing scalable web applications, real-time interactive platforms
     <td width="50%" valign="top">
       <h3>📚 StudyFriend</h3>
       <p>A full-stack collaborative learning platform enabling students to connect via real-time WebRTC video rooms, socket messaging, and AI-powered study buddy recommendations.</p>
-      <p><b>Tech:</b> <code>React 19</code> • <code>Node.js</code> • <code>Socket.io</code> • <code>MongoDB</code> • <code>Pinecone</code> • <code>Google Generative AI</code></p>
+      <p>
+        <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+      </p>
       <ul>
         <li>WebRTC video study hubs & real-time chat.</li>
         <li>Vectorized AI buddy matching via Gemini & Pinecone.</li>
@@ -79,7 +139,12 @@ I focus on developing scalable web applications, real-time interactive platforms
     <td width="50%" valign="top">
       <h3>🌾 Harvest Harbor</h3>
       <p>An end-to-end smart agriculture platform providing soil nutrient optimization, crop disease diagnosis, yield forecasting, and direct marketplace trading.</p>
-      <p><b>Tech:</b> <code>Python</code> • <code>Flask</code> • <code>Scikit-learn</code> • <code>Docker</code> • <code>OpenCV</code></p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+        <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      </p>
       <ul>
         <li>Random Forest crop & fertilizer recommendations.</li>
         <li>Neural Network leaf lesion & disease diagnosis.</li>
@@ -94,7 +159,12 @@ I focus on developing scalable web applications, real-time interactive platforms
     <td width="50%" valign="top">
       <h3>📈 Financial Analyzer</h3>
       <p>A stock analysis framework for US and Indian (NSE) equities that integrates historical OHLCV price action with fundamental financial statements.</p>
-      <p><b>Tech:</b> <code>Python 3.12</code> • <code>SQLite</code> • <code>Pandas</code> • <code>NumPy</code> • <code>uv</code></p>
+      <p>
+        <img src="https://img.shields.io/badge/Python_3.12-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+      </p>
       <ul>
         <li>50/200-day SMA & Golden / Death Crossover detection.</li>
         <li>Fundamental ratios: BVPS, Price-to-Book (P/B), Enterprise Value.</li>
@@ -107,7 +177,12 @@ I focus on developing scalable web applications, real-time interactive platforms
     <td width="50%" valign="top">
       <h3>🏥 Breast Cancer Diagnosis</h3>
       <p>An interactive ML application for cytological analysis of fine-needle aspirate mass features, classifying cell clusters as Benign or Malignant with 98.25% accuracy.</p>
-      <p><b>Tech:</b> <code>Python</code> • <code>Streamlit</code> • <code>Scikit-learn</code> • <code>Plotly</code> • <code>Pandas</code></p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+        <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+        <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" />
+      </p>
       <ul>
         <li>Optimized Logistic Regression with MinMaxScaler feature scaling.</li>
         <li>Evaluated on 30 nuclear attributes with 98.25% test accuracy.</li>
