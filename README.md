@@ -1,148 +1,194 @@
 <div align="center">
 
-# Hi, I'm Gourav Dutta 👋
+  <!-- DYNAMIC TYPING HEADER -->
+  <a href="https://github.com/gouravdutta2004">
+    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=1000&color=00F2FE&center=true&vCenter=true&width=700&lines=%E2%9A%A1+Hi%2C+I'm+Gourav+Dutta;%F0%9F%92%BB+Full-Stack+Developer+%26+Software+Engineer;%F0%9F%A7%A0+AI%2FML+%26+Data+Science+Enthusiast;%F0%9F%9A%80+Building+Scalable%2C+Data-Driven+Products" alt="Typing Header" />
+  </a>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=900&color=6E7BFF&center=true&vCenter=true&width=560&lines=Full-Stack+Developer;ML+%26+Data+Science+Enthusiast;Turning+ideas+into+data-driven+products" alt="typing subtitle" />
+  <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0A0E14?style=flat-square&logo=vercel&logoColor=6E7BFF)](https://your-portfolio-link.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0E14?style=flat-square&logo=linkedin&logoColor=6E7BFF)](https://linkedin.com/in/your-linkedin)
-[![Twitter](https://img.shields.io/badge/Twitter-0A0E14?style=flat-square&logo=twitter&logoColor=6E7BFF)](https://twitter.com/your-handle)
-[![Email](https://img.shields.io/badge/Email-0A0E14?style=flat-square&logo=gmail&logoColor=6E7BFF)](mailto:your-email@example.com)
+  <!-- QUICK SOCIAL BADGES -->
+  <a href="https://your-portfolio-link.com">
+    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00F2FE" alt="Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/your-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F2FE" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/gouravdutta2004">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F2FE" alt="GitHub" />
+  </a>
+  <a href="https://twitter.com/your-handle">
+    <img src="https://img.shields.io/badge/X%2FFormally_Twitter-0D1117?style=for-the-badge&logo=x&logoColor=00F2FE" alt="Twitter" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00F2FE" alt="Email" />
+  </a>
+
+  <br/><br/>
+
+  <!-- LIVE STATUS PIN -->
+  <img src="https://img.shields.io/badge/Status-🟢_Open_to_Collaborations_%26_Opportunities-0D1117?style=flat-square&colorA=0D1117&colorB=00F2FE&logo=github" alt="Status" />
 
 </div>
 
 <br/>
 
-### `$ whoami --verbose`
+---
+
+### `$ systemctl status gouravdutta --verbose`
 
 ```text
-gourav@dev:~$ ./introduce.sh
-
-  ┌──────────────────────────────────┐
-  │           >_  gourav.dev          │
-  └──────────────────────────────────┘
-
-  NAME        Gourav Dutta
-  ROLE        Full-Stack Developer
-  FOCUS       Machine Learning · Data Science
-  STACK       JavaScript · Python · React · Node.js
-  BUILDING    Data-driven web apps & ML-powered tools
-  STATUS      Always learning, always shipping
-
-gourav@dev:~$ _
+┌──────────────────────────────────────────────────────────────────────────────────────────┐
+│  👤 NAME        : Gourav Dutta                                                          │
+│  🚀 ROLE        : Full-Stack Developer & AI/ML Engineer                                 │
+│  🎯 FOCUS       : Intelligent Data Products, Scalable Web Systems & Predictive ML       │
+│  💻 STACK       : Python · TypeScript · React · Next.js · Node.js · PyTorch              │
+│  🌐 LOCATION    : India 🇮🇳                                                               │
+│  ⚡ PHILOSOPHY  : "Transforming complex data into seamless human-centric experiences."    │
+└──────────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
 <br/>
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+---
 
-**🔭 Building**
-Data-driven web apps & ML-powered tools
-
-**🌱 Learning**
-Deep learning & financial analytics
-
-</td>
-<td width="50%" valign="top">
-
-**🤝 Open to**
-Collaborating on full-stack / ML projects
-
-**💬 Ask me about**
-React, Node.js, Python, ML pipelines
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## Tech Stack
-
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=js,ts,python,html,css&theme=dark" />
-
-**Frameworks & Libraries**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind&theme=dark" />
-
-**ML & Data Science**
-<br/>
-![Pandas](https://img.shields.io/badge/Pandas-0A0E14?style=flat-square&logo=pandas&logoColor=4ADE80)
-![NumPy](https://img.shields.io/badge/NumPy-0A0E14?style=flat-square&logo=numpy&logoColor=4ADE80)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-0A0E14?style=flat-square&logo=scikit-learn&logoColor=4ADE80)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0A0E14?style=flat-square&logo=tensorflow&logoColor=4ADE80)
-![Jupyter](https://img.shields.io/badge/Jupyter-0A0E14?style=flat-square&logo=jupyter&logoColor=4ADE80)
-
-**Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
-
-<br/>
-
-## GitHub Metrics
-
-<table width="100%">
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=gouravdutta2004&show_icons=true&hide_border=true&bg_color=0A0E14&title_color=6E7BFF&icon_color=F2A65A&text_color=C9D1D9" width="100%"/>
-</td>
-<td width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gouravdutta2004&hide_border=true&background=0A0E14&stroke=0A0E14&ring=6E7BFF&fire=F2A65A&currStreakLabel=F2A65A&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=6E7BFF" width="100%"/>
-</td>
-</tr>
-</table>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gouravdutta2004&layout=compact&hide_border=true&bg_color=0A0E14&title_color=6E7BFF&text_color=C9D1D9&langs_count=8" width="100%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gouravdutta2004&bg_color=0A0E14&color=C9D1D9&line=6E7BFF&point=F2A65A&area=true&hide_border=true" width="100%"/>
-
-<br/>
-
-## Contribution Activity
-
-<img src="https://raw.githubusercontent.com/gouravdutta2004/gouravdutta2004/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-<br/>
-
-## Featured Projects
-
-<table width="100%">
-<tr>
-<td width="50%">
-<a href="https://github.com/gouravdutta2004/StudyFriend">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=gouravdutta2004&repo=StudyFriend&hide_border=true&bg_color=0A0E14&title_color=6E7BFF&text_color=C9D1D9&icon_color=F2A65A" width="100%"/>
-</a>
-</td>
-<td width="50%">
-<a href="https://github.com/gouravdutta2004/Financial_analyzer">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=gouravdutta2004&repo=Financial_analyzer&hide_border=true&bg_color=0A0E14&title_color=6E7BFF&text_color=C9D1D9&icon_color=F2A65A" width="100%"/>
-</a>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<a href="https://github.com/gouravdutta2004/Cancer_diagnosis">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=gouravdutta2004&repo=Cancer_diagnosis&hide_border=true&bg_color=0A0E14&title_color=6E7BFF&text_color=C9D1D9&icon_color=F2A65A" width="100%"/>
-</a>
-</td>
-<td width="50%">
-<a href="https://github.com/gouravdutta2004/Harvest-Harbor">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=gouravdutta2004&repo=Harvest-Harbor&hide_border=true&bg_color=0A0E14&title_color=6E7BFF&text_color=C9D1D9&icon_color=F2A65A" width="100%"/>
-</a>
-</td>
-</tr>
-</table>
-
-<br/>
+### 🛠️ Tech Stack & Skill Matrix
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=gouravdutta2004&label=Profile%20Views&color=6E7BFF&style=flat-square" alt="profile views"/>
+  <!-- SKILLICONS DYNAMIC BADGES ROW -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,py,cpp,react,nextjs,nodejs,express,fastapi,pytorch,tensorflow,postgres,mongodb,redis,docker,aws,git,github,tailwind,html,css&perline=11" alt="Tech Stack Icons" />
+  </a>
 
-**Thanks for stopping by — let's build something great together 🚀**
+</div>
+
+<br/>
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>💻 Frontend & Web Systems</h4>
+      <ul>
+        <li><b>Frameworks:</b> React.js, Next.js, HTML5/CSS3</li>
+        <li><b>Styling:</b> TailwindCSS, Styled-Components, CSS Modules</li>
+        <li><b>State & Tools:</b> Redux Toolkit, Zustand, Webpack, Vite</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>⚙️ Backend & Architecture</h4>
+      <ul>
+        <li><b>Languages & Runtimes:</b> Node.js, Python, TypeScript, C++</li>
+        <li><b>Frameworks:</b> Express.js, FastAPI, Flask</li>
+        <li><b>Databases & Caching:</b> PostgreSQL, MongoDB, Redis</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🧠 Machine Learning & Data Science</h4>
+      <ul>
+        <li><b>Core ML:</b> PyTorch, TensorFlow, Scikit-Learn</li>
+        <li><b>Data Wrangling:</b> Pandas, NumPy, OpenCV</li>
+        <li><b>Specializations:</b> Deep Learning, Financial Analytics, NLP</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🚀 Cloud & DevOps Ecosystem</h4>
+      <ul>
+        <li><b>Containerization:</b> Docker</li>
+        <li><b>Cloud & Serverless:</b> AWS, Vercel, Render</li>
+        <li><b>VCS & CI/CD:</b> Git, GitHub Actions</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+---
+
+### 🚀 Featured Masterpieces
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 AI Data Analytics Platform</h3>
+      <p>An end-to-end full-stack analytics engine that converts unstructured datasets into actionable interactive insights using predictive ML models.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+      </p>
+      <a href="https://github.com/gouravdutta2004"><b>View Repository »</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ Real-Time Financial Dashboard</h3>
+      <p>High-throughput dashboard featuring live streaming metrics, automated portfolio tracking, and deep algorithmic trend insights.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+      </p>
+      <a href="https://github.com/gouravdutta2004"><b>View Repository »</b></a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+---
+
+### 📊 Telemetry & GitHub Analytics
+
+<div align="center">
+
+  <table border="0">
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gouravdutta2004&show_icons=true&theme=cyberpunk&hide_border=true&count_private=true&include_all_commits=true" alt="Gourav's GitHub Stats" />
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gouravdutta2004&layout=compact&theme=cyberpunk&hide_border=true&hide=html,css" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gouravdutta2004&theme=cyberpunk&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+<br/>
+
+---
+
+### 📈 Contribution Activity Matrix
+
+<div align="center">
+  <!-- GITHUB SNAKE CONTRIBUTION GRAPH -->
+  <img src="https://raw.githubusercontent.com/gouravdutta2004/gouravdutta2004/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+  ### 🤝 Let's Connect & Build Something Extraordinary!
+
+  Got a project in mind, an open-source collaboration idea, or just want to talk tech & ML?
+
+  <br/>
+
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Get_In_Touch-00F2FE?style=for-the-badge&logo=mail.ru&logoColor=000000" alt="Get In Touch" />
+  </a>
+
+  <br/><br/>
+
+  <sub>Designed with ⚡ and passion by <b>Gourav Dutta</b></sub>
 
 </div>
