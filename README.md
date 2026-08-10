@@ -17,7 +17,7 @@
   <a href="https://github.com/gouravdutta2004">
     <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F2FE" alt="GitHub" />
   </a>
-  <a href="https://twitter.com/your-handle">
+  <a href="https://twitter.com/gouravdutta873">
     <img src="https://img.shields.io/badge/X%2FFormally_Twitter-0D1117?style=for-the-badge&logo=x&logoColor=00F2FE" alt="Twitter" />
   </a>
   <a href="mailto:gouravdutta873@gmail.com">
