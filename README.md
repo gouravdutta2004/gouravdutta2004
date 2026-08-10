@@ -10,9 +10,13 @@
 
   <br/><br/>
 
-  <!-- QUICK LINK BADGES -->
+  <!-- QUICK SOCIAL BADGES -->
   <a href="https://github.com/gouravdutta2004">
     <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/gouravdutta2004">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="mailto:gouravdutta2004@gmail.com">
@@ -23,17 +27,19 @@
 
 ---
 
-## 👨‍💻 Short Professional Introduction
+## 👨‍💻 Professional Introduction
 
-I build full-stack applications and AI/ML systems that turn complex data into practical products. My work spans modern web engineering, real-time communication systems, financial data tools, machine learning pipelines, and intelligent product features.
+I am Gourav Dutta — a Full-Stack Engineer and AI/ML Specialist dedicated to building practical, data-driven products. My work combines modern web architectures with machine learning models to solve complex real-world problems.
+
+I focus on developing scalable web applications, real-time interactive platforms, financial data tools, and precision AI pipelines that deliver seamless user experiences.
 
 <br/>
 
-| Focus Area | Engineering Scope |
+| Engineering Focus | Technical Scope |
 | :--- | :--- |
-| **Full-Stack Engineering** | Scalable web applications, real-time WebRTC/Socket systems, REST APIs, and modern UIs. |
-| **AI / Machine Learning** | Predictive ML modeling, Computer Vision classification, vector search, and NLP workflows. |
-| **Data Products** | End-to-end financial analytics tools, precision agronomy engines, and automated data pipelines. |
+| **Full-Stack Systems** | Scalable web apps, real-time WebRTC/Socket.io hubs, REST/GraphQL APIs, modern UI/UX. |
+| **Applied AI & ML** | Predictive modeling, Computer Vision classification, vector search, and NLP workflows. |
+| **Data Products** | End-to-end financial analytics frameworks, precision agronomy engines, and data pipelines. |
 
 ---
 
@@ -47,8 +53,7 @@ I build full-stack applications and AI/ML systems that turn complex data into pr
 | **Frontend** | `React` • `Next.js` • `Tailwind CSS` • `HTML5` • `CSS3` |
 | **Backend** | `Node.js` • `Express` • `FastAPI` • `Flask` |
 | **AI / ML** | `PyTorch` • `TensorFlow` • `Scikit-learn` • `OpenCV` • `Pandas` • `NumPy` |
-| **Databases** | `MongoDB` • `PostgreSQL` • `Redis` • `SQLite` |
-| **Cloud & DevOps** | `AWS` • `Docker` • `GitHub Actions` • `Vercel` |
+| **Databases & Cloud** | `MongoDB` • `PostgreSQL` • `Redis` • `SQLite` • `AWS` • `Docker` • `Vercel` |
 
 </div>
 
@@ -155,31 +160,51 @@ I build full-stack applications and AI/ML systems that turn complex data into pr
 
 ## 📚 Currently Learning
 
-- 🧠 **LLM Fine-Tuning & Prompt Engineering**
-- 🤖 **Deep Learning Architectures & Transformer Models**
+- 🧠 **LLMs & Prompt Engineering**
+- 🤖 **Deep Learning & Transformer Models**
 - 📈 **Financial Machine Learning & Quantitative Analytics**
-- ⚡ **Scalable & Distributed AI Systems**
+- ⚡ **Cloud Architectures & Scalable AI Systems**
 
 ---
 
 ## 🤝 Connect
 
-I am always open to discussing engineering problems, AI/ML systems, collaborations, and open-source opportunities.
+I am always interested in discussing engineering challenges, AI/ML applications, open-source work, and product ideas.
 
 <br/>
 
 <div align="center">
 
   <a href="https://github.com/gouravdutta2004">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=58A6FF" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/gouravdutta2004">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/gouravdutta2004">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   &nbsp;
   <a href="mailto:gouravdutta2004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email Gourav" />
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
   </a>
 
-  <br/><br/>
+</div>
 
-  <sub>Built with curiosity, code, and a lot of coffee.</sub>
+---
+
+## ⚡ Footer
+
+<div align="center">
+
+  <p><i>"Transforming complex data into seamless human experiences."</i></p>
+
+  <br/>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="Footer Wave" width="100%" />
+
+  <sub><b>Engineered with passion & precision by Gourav Dutta</b></sub>
 
 </div>
