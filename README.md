@@ -8,10 +8,10 @@
   <br/>
 
   <!-- QUICK SOCIAL BADGES -->
-  <a href="https://your-portfolio-link.com">
+  <a href="portfolio-fe-beige-two.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00F2FE" alt="Portfolio" />
   </a>
-  <a href="https://linkedin.com/in/your-linkedin">
+  <a href="https://www.linkedin.com/in/gouravdutta2004/">
     <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F2FE" alt="LinkedIn" />
   </a>
   <a href="https://github.com/gouravdutta2004">
@@ -20,7 +20,7 @@
   <a href="https://twitter.com/your-handle">
     <img src="https://img.shields.io/badge/X%2FFormally_Twitter-0D1117?style=for-the-badge&logo=x&logoColor=00F2FE" alt="Twitter" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:gouravdutta873@gmail.com">
     <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00F2FE" alt="Email" />
   </a>
 
