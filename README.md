@@ -97,13 +97,23 @@ I love turning complex data into elegant, human-centric products — whether tha
 ---
 
 <!-- ══════════════════════ TROPHIES ══════════════════════ -->
-<!-- FIX #2: column=7 → column=4 (fewer trophies to fit), theme=algolia (more reliable) -->
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=gouravdutta2004&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=4" alt="GitHub Trophies" />
+<!-- Row 1: MultiLanguage, Commits, Stars -->
+<img src="https://github-profile-trophy.vercel.app/?username=gouravdutta2004&theme=darkhub&no-frame=false&no-bg=true&margin-w=10&margin-h=10&column=3&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies Row 1" />
+
+<br/>
+
+<!-- Row 2: Followers, Issues, Pull Request -->
+<img src="https://github-profile-trophy.vercel.app/?username=gouravdutta2004&theme=darkhub&no-frame=false&no-bg=true&margin-w=10&margin-h=10&column=3&title=Followers,Issues,PullRequest" alt="GitHub Trophies Row 2" />
+
+<br/><br/>
+
+<!-- ACHIEVEMENT BADGE STRIP — always visible even if trophy service is slow -->
+<img src="https://img.shields.io/badge/⭐_Open_Source_Contributor-gold?style=for-the-badge&labelColor=0D1117" />&nbsp;<img src="https://img.shields.io/badge/🧠_ML_Engineer-blueviolet?style=for-the-badge&labelColor=0D1117" />&nbsp;<img src="https://img.shields.io/badge/🚀_Full--Stack_Builder-blue?style=for-the-badge&labelColor=0D1117" />&nbsp;<img src="https://img.shields.io/badge/📊_Data_Scientist-teal?style=for-the-badge&labelColor=0D1117" />&nbsp;<img src="https://img.shields.io/badge/☁️_Cloud_Practitioner-FF9900?style=for-the-badge&labelColor=0D1117" />
 
 </div>
 
