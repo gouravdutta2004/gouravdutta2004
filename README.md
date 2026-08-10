@@ -130,15 +130,27 @@ I focus on developing scalable web applications, real-time interactive platforms
 
 <div align="center">
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gouravdutta2004&theme=github_dark" width="98%" alt="Profile Summary Card" />
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td valign="top" align="center">
+        <a href="https://github.com/gouravdutta2004">
+          <img height="175em" src="https://github-readme-stats.vercel.app/api?username=gouravdutta2004&show_icons=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_color=30363D&border_radius=8" alt="Gourav's GitHub Stats" />
+        </a>
+      </td>
+      <td width="15"></td>
+      <td valign="top" align="center">
+        <a href="https://github.com/gouravdutta2004">
+          <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gouravdutta2004&layout=compact&langs_count=8&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=30363D&border_radius=8" alt="Top Languages" />
+        </a>
+      </td>
+    </tr>
+  </table>
 
-  <br/><br/>
+  <br/>
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gouravdutta2004&theme=github_dark" width="32%" alt="Repos Per Language" />
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gouravdutta2004&theme=github_dark" width="32%" alt="Most Used Language" />
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gouravdutta2004&theme=github_dark" width="32%" alt="Overall Stats" />
+  <a href="https://github.com/gouravdutta2004">
+    <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=gouravdutta2004&theme=dark&bg=0D1117&border=30363D&stroke=58A6FF&ring=58A6FF&fire=FF9500&currStreakNum=58A6FF&currStreakLabel=58A6FF&dates=8B949E&sideLabels=8B949E&sideNums=C9D1D9&border_radius=8" alt="GitHub Streak Stats" />
+  </a>
 
 </div>
 
