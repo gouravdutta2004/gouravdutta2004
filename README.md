@@ -262,7 +262,7 @@ I am always interested in discussing engineering challenges, AI/ML applications,
 
 <div align="center">
 
-  <a href="https://github.com/gouravdutta2004">
+  <a href="https://portfolio-fe-beige-two.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=58A6FF" alt="Portfolio" />
   </a>
   &nbsp;
