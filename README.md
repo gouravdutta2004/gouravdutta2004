@@ -211,55 +211,60 @@ print(me.greet())
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🤖 AI Data Analytics Platform</h3>
-      <p>End-to-end full-stack analytics engine converting unstructured datasets into actionable insights using predictive ML models and real-time data pipelines.</p>
+      <h3>🌾 Harvest Harbor</h3>
+      <p>Next-Gen Smart Agriculture & Precision Agronomy Ecosystem. Combines ML, Computer Vision & IoT to deliver soil optimization, crop disease diagnosis, harvest yield forecasting, and direct marketplace trading for farmers.</p>
       <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
       </p>
-      <a href="https://github.com/gouravdutta2004">
+      <a href="https://github.com/gouravdutta2004/Harvest-Harbor">
         <img src="https://img.shields.io/badge/View_Repo-0D1117?style=flat-square&logo=github&logoColor=white" />
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>⚡ Real-Time Financial Dashboard</h3>
-      <p>High-throughput dashboard with live streaming metrics, automated portfolio tracking, deep algorithmic trend analysis, and financial forecasting models.</p>
+      <h3>🏥 Breast Cancer Diagnosis</h3>
+      <p>ML-powered web application achieving <b>98.25% accuracy</b> for early breast cancer detection via cytological analysis. Features interactive Plotly visualizations and a live Streamlit Cloud deployment.</p>
       <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+        <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" />
       </p>
-      <a href="https://github.com/gouravdutta2004">
+      <a href="https://github.com/gouravdutta2004/Cancer_diagnosis">
         <img src="https://img.shields.io/badge/View_Repo-0D1117?style=flat-square&logo=github&logoColor=white" />
+      </a>
+      &nbsp;
+      <a href="https://cancerdiagnosis.streamlit.app/">
+        <img src="https://img.shields.io/badge/Live_Demo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧠 NLP Sentiment Engine</h3>
-      <p>Fine-tuned transformer-based sentiment analysis system capable of multi-label classification across financial news, social media, and product reviews.</p>
+      <h3>📈 Financial Analyzer</h3>
+      <p>End-to-end stock analysis framework for US & Indian equities. Merges OHLCV price data with fundamental statements to compute technical indicators, detect Golden/Death Crossovers, and evaluate P/B, BVPS & Enterprise Value ratios.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
       </p>
-      <a href="https://github.com/gouravdutta2004">
+      <a href="https://github.com/gouravdutta2004/Financial_analyzer">
         <img src="https://img.shields.io/badge/View_Repo-0D1117?style=flat-square&logo=github&logoColor=white" />
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>🌐 Scalable REST + GraphQL API</h3>
-      <p>Production-grade API layer with JWT authentication, rate limiting, caching via Redis, and comprehensive OpenAPI documentation using Docker & CI/CD.</p>
+      <h3>📚 StudyFriend</h3>
+      <p>Full-stack platform connecting students via WebRTC video rooms, real-time socket messaging, AI-powered matching with Google Generative AI & Pinecone, cross-platform mobile support via Capacitor, and Razorpay billing.</p>
       <p>
+        <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black" />
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-        <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
+        <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
       </p>
-      <a href="https://github.com/gouravdutta2004">
+      <a href="https://github.com/gouravdutta2004/StudyFriend">
         <img src="https://img.shields.io/badge/View_Repo-0D1117?style=flat-square&logo=github&logoColor=white" />
       </a>
     </td>
