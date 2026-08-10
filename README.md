@@ -42,37 +42,55 @@
 
 ## 👨‍💻 About Me
 
-```python
-#!/usr/bin/env python3
-# ─────────────────────────────────────────────────────────────
-#  ⚡  gourav.dutta — Developer Identity Card
-# ─────────────────────────────────────────────────────────────
+<table width="100%">
+<tr>
+<td width="42%" valign="top" align="center">
 
-class GouravDutta:
-    name       = "Gourav Dutta"
-    role       = ["Full-Stack Developer", "AI/ML Engineer", "Data Science Enthusiast"]
-    location   = "India 🇮🇳"
+<img src="https://user-images.githubusercontent.com/55389276/140866428-23fb5893-a72b-4a5f-8b28-0a3e58db0dde.gif" width="100%" alt="Coding GIF" />
 
-    tech = {
-        "languages" : ["Python", "TypeScript", "JavaScript", "C++"],
-        "frontend"  : ["React.js", "Next.js", "TailwindCSS", "HTML5", "CSS3"],
-        "backend"   : ["Node.js", "Express.js", "FastAPI", "Flask"],
-        "ml_stack"  : ["PyTorch", "TensorFlow", "Scikit-Learn", "Pandas", "NumPy"],
-        "databases" : ["PostgreSQL", "MongoDB", "Redis"],
-        "devops"    : ["Docker", "AWS", "GitHub Actions", "Vercel"],
-    }
+<br/><br/>
 
-    currently_building = "Data-driven web apps & ML-powered intelligent tools"
-    currently_learning = "Deep Learning · Financial Analytics · LLM Fine-Tuning"
-    philosophy         = "Transforming raw data into seamless human experiences."
-    open_to            = ["Collaborations", "Open Source", "New Opportunities"]
+<img src="https://img.shields.io/badge/📍_Location-India_🇮🇳-0D1117?style=for-the-badge" /><br/>
+<img src="https://img.shields.io/badge/💼_Status-Open_to_Opportunities-00b300?style=for-the-badge" /><br/>
+<img src="https://img.shields.io/badge/☕_Fuel-Coffee_%2B_Code-brown?style=for-the-badge" />
 
-    def greet(self):
-        return f"Hey there 👋 I'm {self.name} — let's build something extraordinary!"
+</td>
+<td width="58%" valign="top">
 
-me = GouravDutta()
-print(me.greet())
-```
+### Hey there! I'm **Gourav Dutta** 👋
+
+> 🚀 *Passionate builder at the intersection of **Full-Stack Engineering** and **AI/ML***
+
+I love turning complex data into elegant, human-centric products — whether that means fine-tuning a model, architecting a backend, or crafting a pixel-perfect UI.
+
+<br/>
+
+| | |
+|---|---|
+| 🔭 **Building** | Data-driven web apps & ML-powered tools |
+| 🌱 **Learning** | Deep Learning · Financial Analytics · LLMs |
+| 🎯 **Focus** | Scalable systems that put data to work |
+| 🤝 **Open to** | Collaborations & Open Source |
+| 💡 **Philosophy** | *"Raw data → seamless human experiences"* |
+
+<br/>
+
+**⚡ Quick Stack:**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)&nbsp;![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)&nbsp;![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)&nbsp;![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)&nbsp;![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)&nbsp;![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)&nbsp;![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)&nbsp;![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+<!-- NOW STRIP -->
+<img src="https://img.shields.io/badge/🔨_Now_Building-ML--Powered_Data_Products-0D1117?style=for-the-badge&labelColor=1f2937" />&nbsp;<img src="https://img.shields.io/badge/📚_Now_Learning-LLM_Fine--Tuning_%26_Financial_ML-0D1117?style=for-the-badge&labelColor=1f2937" />&nbsp;<img src="https://img.shields.io/badge/🎵_Vibe-Lo--Fi_%2B_Dark_Mode-0D1117?style=for-the-badge&labelColor=1f2937" />
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%" />
 
