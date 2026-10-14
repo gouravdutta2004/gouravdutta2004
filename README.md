@@ -14,7 +14,7 @@
   &nbsp;
   <img src="https://img.shields.io/github/followers/gouravdutta2004?style=for-the-badge&color=0D1117&labelColor=0D1117&logo=github&logoColor=58A6FF&label=FOLLOWERS" alt="Followers" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Status-🟢_Building_Data_Products-0D1117?style=for-the-badge&logoColor=58A6FF" alt="Status" />
+  <img src="https://img.shields.io/badge/Status-%F0%9F%9F%A2_Building_Data_Products-0D1117?style=for-the-badge&logoColor=58A6FF" alt="Status" />
 
   <br/><br/>
 
@@ -234,11 +234,11 @@ I focus on developing scalable web applications, real-time interactive platforms
 
 <div align="center">
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gouravdutta2004&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=1f6feb&hide_border=true&border_radius=12" width="98%" alt="Contribution Graph" />
-
-  <br/><br/>
-
-  <img src="https://raw.githubusercontent.com/gouravdutta2004/gouravdutta2004/output/github-contribution-grid-snake-dark.svg" width="98%" alt="Contribution Snake Animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gouravdutta2004/gouravdutta2004/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gouravdutta2004/gouravdutta2004/output/github-contribution-grid-snake.svg">
+    <img src="https://raw.githubusercontent.com/gouravdutta2004/gouravdutta2004/output/github-contribution-grid-snake-dark.svg" width="98%" alt="Contribution Snake Animation" />
+  </picture>
 
 </div>
 
