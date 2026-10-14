@@ -1,12 +1,11 @@
 <div align="center">
 
-  <!-- HEADER BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Gourav%20Dutta&fontSize=46&fontColor=fff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Engineer%20%E2%80%A2%20AI%2FML%20Engineer%20%E2%80%A2%20Product%20Builder&descAlignY=62&descSize=15&descColor=aaaaaa" alt="Gourav Dutta Banner" width="100%" />
-
-  <!-- DYNAMIC TYPING SUBTITLE -->
-  <a href="https://github.com/gouravdutta2004">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Engineering+%E2%80%A2+AI%2FML+Systems;Building+Practical%2C+Data-Driven+Products;React+%E2%80%A2+Node.js+%E2%80%A2+Python+%E2%80%A2+PyTorch" alt="Typing Animation" />
-  </a>
+  <!-- THEME-AWARE HERO BANNER (DARK & LIGHT) -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./light.svg">
+    <img src="./dark.svg" alt="Gourav Dutta — Full-Stack Engineer and AI/ML Specialist Developer Profile Banner" width="100%" />
+  </picture>
 
   <br/><br/>
 
